@@ -5,8 +5,8 @@
 This script is designed to configure Jenkins, Git, Maven, Node.js, and Angular on your system. Follow the instructions below to execute the script.
 
 ## Prerequisites
-
-Ensure that you have the necessary permissions to execute scripts on your system.
+- The script requires sudo permissions to execute successfully.
+- Ensure that you have the necessary permissions to execute scripts on your system.
 
 ## Script Execution
 
@@ -59,8 +59,6 @@ The script will perform the following configurations:
 ## Troubleshooting
 
 If you encounter any issues while executing the script, check the following:
-
-- Ensure you have an active internet connection to download the necessary packages.
 - Verify that you have the necessary permissions to install software and modify system settings.
 - Check the script for any errors or missing dependencies.
 
