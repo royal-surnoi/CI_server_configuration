@@ -1,5 +1,3 @@
-Sure! Below is a template for your README file to document how to use the script you wrote to configure Jenkins, Git, Maven, Node.js, and Angular.
-
 ---
 
 # Project Setup Script
